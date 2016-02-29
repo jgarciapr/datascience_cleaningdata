@@ -15,3 +15,4 @@ Steps to use the run_analysis.R script:
     2. Change line4 of the script to point to your local folder where the dataset and the script are located.
     3. Run the script and get the results from the file final.txt
 
+The description of the transformations is in the file codebook.md. Content of the variables in the dataset is self-explanatory.
